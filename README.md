@@ -2,6 +2,8 @@
 
 Welcome to the **DataScience_Project_Pathrise** repository! This project is part of the Pathrise application process and focuses on analyzing and predicting fellows' outcomes within the program. The project involves preprocessing data, conducting exploratory data analysis (EDA), creating a modeling pipeline, and presenting findings.
 
+![Pathrise](images/pathrise_Logo.png) 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
